@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Cansev Marmara</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw3F6ptXmYVVrvvfrb7zrLCr&ust=1673528458116000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjSmL3Jv_wCFQAAAAAdAAAAABAK"></a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw3F6ptXmYVVrvvfrb7zrLCr&ust=1673528458116000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjSmL3Jv_wCFQAAAAAdAAAAABAK"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwomen-coding&psig=AOvVaw3F6ptXmYVVrvvfrb7zrLCr&ust=1673528458116000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjSmL3Jv_wCFQAAAAAdAAAAABAK"></a>
 
 
 - 🌱 I’m currently learning **Javascript**
