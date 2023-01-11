@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Cansev Marmara</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<a href="#"><img src=""></a>
+<a href="#"><img src="image.jpg"></a>
 
 
 - 🌱 I’m currently learning **Javascript**
